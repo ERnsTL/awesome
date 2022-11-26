@@ -946,6 +946,7 @@
 - [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
+- [Swatch Internet Time](https://github.com/ERnsTL/awesome-internettime#readme) - Alternative time format without time zones AKA Beat Time
 
 ## Related
 
